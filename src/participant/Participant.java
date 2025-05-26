@@ -1,7 +1,5 @@
 package participant;
 
-import observer.Observer;
-
 import java.time.LocalDateTime;
 
 public class Participant {
